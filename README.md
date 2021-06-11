@@ -91,7 +91,7 @@ public class Main {
 }       
 ```
 
-![image-20210611232607596](C:\Users\USER\AppData\Roaming\Typora\typora-user-images\image-20210611232607596.png)
+![gggg](https://user-images.githubusercontent.com/80510925/121703985-4c004980-cb0e-11eb-9a80-19544a902e9e.PNG)
 
 
 
